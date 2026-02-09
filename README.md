@@ -1,12 +1,12 @@
 # â˜ï¸ Azure Administrator (AZ-104) Lab Projects
 
-Welcome to my Azure infrastructure portfolio! íº€
+Welcome to my Azure infrastructure portfolio! ğŸš€
 This repository documents my practical journey towards mastering the **Microsoft Azure Administrator (AZ-104)** certification. It focuses on **Infrastructure as Code (IaC)**, Networking, Security, and Governance using real-world scenarios.
 
-## í¾¯ Repository Goal
+## ğŸ¯ Repository Goal
 To demonstrate hands-on experience in building secure, scalable, and reliable cloud solutions on Microsoft Azure, moving beyond theory to practical implementation.
 
-## í³‚ Project Modules
+## ğŸ“‚ Project Modules
 
 | Module | Description | Key Topics |
 | :--- | :--- | :--- |
@@ -15,14 +15,14 @@ To demonstrate hands-on experience in building secure, scalable, and reliable cl
 | **03-Storage** | Implementing secure storage solutions. | Blob Storage, File Shares. |
 | **04-Compute** | Deploying scalable compute infrastructure. | VMs, VM Scale Sets, App Services. |
 
-## í» ï¸ Tools & Technologies
+## ğŸ› ï¸ Tools & Technologies
 - **Cloud Provider:** Microsoft Azure
 - **Automation:** ARM Templates (JSON), PowerShell, Azure CLI
 - **Architecture:** Topology Design & Documentation
 
-## íº€ Featured Projects
+## ğŸš€ Featured Projects
 
-### í³¡ [Lab 04] Implement Virtual Networking
+### ğŸ“¡ [Lab 04] Implement Virtual Networking
 **Scenario:** Designed a network infrastructure for a growing global organization, separating **Core Services** from **Manufacturing Operations**.
 - **Key Achievements:**
   - Deployed **CoreServicesVnet** and **ManufacturingVnet** with non-overlapping IP spaces.
